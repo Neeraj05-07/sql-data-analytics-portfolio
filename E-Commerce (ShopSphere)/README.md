@@ -6,7 +6,7 @@ using MySQL.
 
 ---
 
-## 📁 Database
+## Database
 ```
 Database Name : shopsphere_db
 Tool Used     : MySQL Workbench
@@ -15,7 +15,7 @@ SQL Version   : MySQL 8.0
 
 ---
 
-## 🗂️ Tables
+## Tables
 
 | Table | Description |
 |-------|-------------|
