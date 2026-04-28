@@ -72,8 +72,8 @@ Step 4 → Run 03_analysis_queries.sql        (business insights)/
 
 ## Author
 
-**Neeraj Thakur**/
-tneeraj80@gmail.com/
+**Neeraj Thakur**\
+tneeraj80@gmail.com\
 [LinkedIn](https://www.linkedin.com/in/neeraj-thakur-ba7838230/) 
 ---
 
