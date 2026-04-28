@@ -48,7 +48,7 @@ SQL Version   : MySQL 8.0
 
 Step 1 → Open MySQL Workbench\
 Step 2 → Run 01_shopsphere_schema.sql       (creates tables)\
-Step 3 → Run 02_shopsphere_seed_data.sql    (inserts data)\
+Step 3 → Run 02_shopsphere_data.sql         (inserts data)\
 Step 4 → Run 03_analysis_queries.sql        (business insights)
 ---
 
