@@ -146,7 +146,7 @@ ORDER BY total_revenue DESC;
 -- ───────────────────────────────────────
 SELECT
     YEAR(o.order_date) AS yr,
-    MONTH(o.order_date) AS mm,
+    MONTH(o.order_date) AS mn,
     DATE_FORMAT(o.order_date,'%b %Y') AS month_label,
     ROUND(SUM(oi.quantity * oi.unit_price),2) AS revenue
 FROM orders o
