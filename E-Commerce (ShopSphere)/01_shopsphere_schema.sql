@@ -60,13 +60,13 @@ CREATE TABLE orders (
 );
 
 
--- TABLE 4. ORDERS_ITEMS
+-- TABLE 4. ORDER_ITEMS
 
 -- Drop table if already exists 
 DROP TABLE IF EXISTS orders_items;
 
 -- Recreate the table
-CREATE TABLE orders_items (
+CREATE TABLE order_items (
     item_id       SERIAL PRIMARY KEY,
     order_id      INT NOT NULL REFERENCES orders(order_id),
     product_id    INT NOT NULL REFERENCES products(product_id),
