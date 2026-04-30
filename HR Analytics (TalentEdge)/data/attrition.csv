@@ -1,0 +1,21 @@
+record_id,emp_id,exit_date,exit_reason,exit_type
+21,119,2022-09-30,"better opportunity",voluntary
+22,120,2022-12-15,"dissatisfied with pay",voluntary
+23,121,2023-02-28,"better opportunity",voluntary
+24,122,2022-08-31,"personal reasons",voluntary
+25,123,2022-11-30,"better opportunity",voluntary
+26,124,2023-06-30,"dissatisfied with pay",voluntary
+27,125,2022-07-31,"better opportunity",voluntary
+28,126,2023-09-30,"conflict with manager",voluntary
+29,127,2023-12-31,"better opportunity",voluntary
+30,128,2023-05-31,"dissatisfied with pay",voluntary
+31,129,2023-07-31,"better opportunity",voluntary
+32,130,2023-09-30,"lack of growth",voluntary
+33,131,2023-10-31,"better opportunity",voluntary
+34,132,2023-12-15,"personal reasons",voluntary
+35,133,2024-01-31,"better opportunity",voluntary
+36,134,2024-02-29,"dissatisfied with pay",voluntary
+37,135,2024-03-31,"better opportunity",voluntary
+38,136,2024-01-31,"conflict with manager",voluntary
+39,137,2024-02-29,"better opportunity",voluntary
+40,138,2024-03-31,"lack of growth",voluntary

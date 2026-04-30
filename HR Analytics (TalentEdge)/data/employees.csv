@@ -1,0 +1,139 @@
+emp_id,full_name,email,dept_id,manager_id,hire_date,salary,job_title,gender,city,employment_status
+1,"Rajesh Kulkarni",rajesh.kulkarni@talentedge.in,1,NULL,2019-04-01,3200000.00,"VP Engineering",Male,Bangalore,Active
+2,"Sneha Deshpande",sneha.deshpande@talentedge.in,1,1,2019-08-12,1850000.00,"Engineering Manager",Female,Bangalore,Active
+3,"Aditya Verma",aditya.verma@talentedge.in,1,2,2020-02-03,1450000.00,"Senior Engineer",Male,Bangalore,Active
+4,"Kavya Menon",kavya.menon@talentedge.in,1,2,2020-05-18,1300000.00,"Senior Engineer",Female,Bangalore,Active
+5,"Rohan Bose",rohan.bose@talentedge.in,1,2,2021-01-11,1100000.00,"Software Engineer",Male,Bangalore,Active
+6,"Nisha Iyer",nisha.iyer@talentedge.in,1,2,2021-03-22,1050000.00,"Software Engineer",Female,Bangalore,Active
+7,"Pranav Joshi",pranav.joshi@talentedge.in,1,2,2021-07-09,1200000.00,"Software Engineer",Male,Bangalore,Active
+8,"Deepa Nair",deepa.nair@talentedge.in,1,2,2021-09-14,980000.00,"Junior Engineer",Female,Bangalore,Active
+9,"Suresh Pillai",suresh.pillai@talentedge.in,1,1,2019-10-01,1950000.00,"Engineering Manager",Male,Bangalore,Active
+10,"Ananya Sharma",ananya.sharma@talentedge.in,1,9,2020-06-01,1400000.00,"Senior Engineer",Female,Bangalore,Active
+11,"Nikhil Gupta",nikhil.gupta@talentedge.in,1,9,2021-02-14,1150000.00,"Software Engineer",Male,Bangalore,Active
+12,"Pooja Patil",pooja.patil@talentedge.in,1,9,2021-06-21,1100000.00,"Software Engineer",Female,Bangalore,Active
+13,"Karthik Reddy",karthik.reddy@talentedge.in,1,9,2022-01-10,950000.00,"Junior Engineer",Male,Bangalore,Active
+14,"Swati Rao",swati.rao@talentedge.in,1,9,2022-03-28,920000.00,"Junior Engineer",Female,Bangalore,Active
+15,"Manish Tiwari",manish.tiwari@talentedge.in,1,9,2022-07-04,1250000.00,"Software Engineer",Male,Bangalore,Active
+16,"Ritu Saxena",ritu.saxena@talentedge.in,1,9,2022-09-19,1200000.00,"Software Engineer",Female,Bangalore,Active
+17,"Arjun Malhotra",arjun.malhotra@talentedge.in,1,9,2023-01-23,880000.00,"Junior Engineer",Male,Bangalore,Active
+18,"Priya Sinha",priya.sinha@talentedge.in,1,9,2023-04-05,860000.00,"Junior Engineer",Female,Bangalore,Active
+19,"Vivek Choudhary",vivek.choudhary@talentedge.in,1,9,2023-07-17,1050000.00,"Software Engineer",Male,Bangalore,Active
+20,"Divya Kapoor",divya.kapoor@talentedge.in,1,9,2023-10-02,830000.00,"Junior Engineer",Female,Bangalore,Active
+21,"Ramesh Nambiar",ramesh.nambiar@talentedge.in,2,NULL,2019-05-01,2800000.00,"VP Product",Male,Bangalore,Active
+22,"Lakshmi Krishnan",lakshmi.krishnan@talentedge.in,2,21,2020-01-15,1700000.00,"Senior Product Manager",Female,Bangalore,Active
+23,"Varun Mehta",varun.mehta@talentedge.in,2,21,2020-04-20,1550000.00,"Senior Product Manager",Male,Bangalore,Active
+24,"Sonal Desai",sonal.desai@talentedge.in,2,22,2021-02-08,1100000.00,"Product Manager",Female,Bangalore,Active
+25,"Rahul Pandey",rahul.pandey@talentedge.in,2,22,2021-05-17,1050000.00,"Product Manager",Male,Bangalore,Active
+26,"Preeti Agarwal",preeti.agarwal@talentedge.in,2,23,2021-08-30,900000.00,"Associate PM",Female,Bangalore,Active
+27,"Siddharth Jain",siddharth.jain@talentedge.in,2,23,2022-01-12,880000.00,"Associate PM",Male,Bangalore,Active
+28,"Meghna Pillai",meghna.pillai@talentedge.in,2,23,2022-06-06,950000.00,"Product Manager",Female,Bangalore,Active
+29,"Arun Chatterjee",arun.chatterjee@talentedge.in,2,21,2022-09-01,1200000.00,"Senior Product Manager",Male,Bangalore,Active
+30,"Ritika Sood",ritika.sood@talentedge.in,2,29,2023-02-14,870000.00,"Associate PM",Female,Bangalore,Active
+31,"Dinesh Ahuja",dinesh.ahuja@talentedge.in,3,NULL,2019-06-01,2600000.00,"VP Sales",Male,Mumbai,Active
+32,"Geeta Shankar",geeta.shankar@talentedge.in,3,31,2019-11-11,1600000.00,"Sales Manager",Female,Mumbai,Active
+33,"Vikram Singh",vikram.singh@talentedge.in,3,31,2020-03-09,1550000.00,"Sales Manager",Male,Mumbai,Active
+34,"Pooja Rane",pooja.rane@talentedge.in,3,32,2020-07-21,900000.00,"Senior Sales Exec",Female,Mumbai,Active
+35,"Amit Dubey",amit.dubey@talentedge.in,3,32,2020-10-14,870000.00,"Senior Sales Exec",Male,Mumbai,Active
+36,"Hema Iyer",hema.iyer@talentedge.in,3,32,2021-01-18,820000.00,"Sales Executive",Female,Mumbai,Active
+37,"Suraj Naik",suraj.naik@talentedge.in,3,32,2021-04-05,800000.00,"Sales Executive",Male,Mumbai,Active
+38,"Neelam Joshi",neelam.joshi@talentedge.in,3,33,2021-07-12,830000.00,"Sales Executive",Female,Mumbai,Active
+39,"Prakash Bhat",prakash.bhat@talentedge.in,3,33,2021-09-30,810000.00,"Sales Executive",Male,Mumbai,Active
+40,"Sheetal Rao",sheetal.rao@talentedge.in,3,33,2022-01-03,780000.00,"Sales Executive",Female,Mumbai,Active
+41,"Rajan Kapoor",rajan.kapoor@talentedge.in,3,33,2022-04-18,760000.00,"Sales Executive",Male,Mumbai,Active
+42,"Priyanka Ghosh",priyanka.ghosh@talentedge.in,3,33,2022-08-01,800000.00,"Senior Sales Exec",Female,Mumbai,Active
+43,"Harsh Trivedi",harsh.trivedi@talentedge.in,3,33,2022-11-07,780000.00,"Sales Executive",Male,Mumbai,Active
+44,"Mita Shah",mita.shah@talentedge.in,3,33,2023-01-16,750000.00,"Sales Executive",Female,Mumbai,Active
+45,"Yash Agrawal",yash.agrawal@talentedge.in,3,33,2023-05-22,730000.00,"Sales Executive",Male,Mumbai,Active
+46,"Smita Deshpande",smita.deshpande@talentedge.in,3,33,2023-08-14,720000.00,"Sales Executive",Female,Mumbai,Active
+47,"Kiran Bhatt",kiran.bhatt@talentedge.in,4,NULL,2019-07-01,2400000.00,"Marketing Director",Female,Mumbai,Active
+48,"Abhishek Roy",abhishek.roy@talentedge.in,4,47,2020-02-17,1400000.00,"Marketing Manager",Male,Mumbai,Active
+49,"Tanvi Menon",tanvi.menon@talentedge.in,4,47,2020-06-09,1350000.00,"Marketing Manager",Female,Mumbai,Active
+50,"Soham Dey",soham.dey@talentedge.in,4,48,2021-03-01,850000.00,"Marketing Analyst",Male,Mumbai,Active
+51,"Anjali Verma",anjali.verma@talentedge.in,4,48,2021-06-14,820000.00,"Marketing Analyst",Female,Mumbai,Active
+52,"Tejas Kulkarni",tejas.kulkarni@talentedge.in,4,49,2021-10-05,880000.00,"Content Strategist",Male,Mumbai,Active
+53,"Richa Bansal",richa.bansal@talentedge.in,4,49,2022-02-21,860000.00,"Content Strategist",Female,Mumbai,Active
+54,"Gaurav Nair",gaurav.nair@talentedge.in,4,48,2022-06-13,840000.00,"Marketing Analyst",Male,Mumbai,Active
+55,"Pallavi Singh",pallavi.singh@talentedge.in,4,48,2022-09-27,810000.00,"Marketing Analyst",Female,Mumbai,Active
+56,"Dev Rao",dev.rao@talentedge.in,4,47,2023-01-30,1100000.00,"Marketing Manager",Male,Mumbai,Active
+57,"Sunita Patel",sunita.patel@talentedge.in,5,NULL,2019-04-15,2000000.00,"HR Director",Female,Pune,Active
+58,"Mahesh Gaikwad",mahesh.gaikwad@talentedge.in,5,57,2019-12-02,1200000.00,"HR Manager",Male,Pune,Active
+59,"Rashmi Joshi",rashmi.joshi@talentedge.in,5,57,2020-04-13,900000.00,"HR Business Partner",Female,Pune,Active
+60,"Nitin Kulkarni",nitin.kulkarni@talentedge.in,5,58,2020-09-07,850000.00,Recruiter,Male,Pune,Active
+61,"Shalini Das",shalini.das@talentedge.in,5,58,2021-01-25,820000.00,Recruiter,Female,Pune,Active
+62,"Vikas Shetty",vikas.shetty@talentedge.in,5,57,2021-05-17,950000.00,"HR Business Partner",Male,Pune,Active
+63,"Prachi More",prachi.more@talentedge.in,5,57,2022-02-28,780000.00,"HR Executive",Female,Pune,Active
+64,"Sandip Kamble",sandip.kamble@talentedge.in,5,58,2022-08-10,760000.00,Recruiter,Male,Pune,Active
+65,"Leena Sawant",leena.sawant@talentedge.in,5,58,2023-03-06,740000.00,Recruiter,Female,Pune,Active
+66,"Ashok Thosar",ashok.thosar@talentedge.in,5,57,2023-07-19,870000.00,"HR Business Partner",Male,Pune,Active
+67,"Veena Krishnamurthy",veena.k@talentedge.in,6,NULL,2019-05-20,2200000.00,"Finance Director",Female,Pune,Active
+68,"Rajeev Lal",rajeev.lal@talentedge.in,6,67,2020-01-06,1400000.00,"Finance Manager",Male,Pune,Active
+69,"Shilpa Apte",shilpa.apte@talentedge.in,6,67,2020-05-11,1350000.00,"Finance Manager",Female,Pune,Active
+70,"Sanjay Mukherjee",sanjay.mukherjee@talentedge.in,6,68,2020-10-26,1000000.00,"Senior Financial Analyst",Male,Pune,Active
+71,"Gauri Ghosh",gauri.ghosh@talentedge.in,6,68,2021-02-08,950000.00,"Financial Analyst",Female,Pune,Active
+72,"Hemant Joshi",hemant.joshi@talentedge.in,6,69,2021-06-01,970000.00,"Financial Analyst",Male,Pune,Active
+73,"Aarti Patil",aarti.patil@talentedge.in,6,69,2021-09-13,930000.00,"Financial Analyst",Female,Pune,Active
+74,"Ravi Deshpande",ravi.deshpande@talentedge.in,6,68,2022-02-14,880000.00,"Financial Analyst",Male,Pune,Active
+75,"Smriti Sharma",smriti.sharma@talentedge.in,6,68,2022-07-04,860000.00,"Financial Analyst",Female,Pune,Active
+76,"Pankaj Goel",pankaj.goel@talentedge.in,6,67,2023-01-09,1100000.00,"Senior Financial Analyst",Male,Pune,Active
+77,"Sunil Pawar",sunil.pawar@talentedge.in,7,NULL,2019-06-10,2100000.00,"Operations Director",Male,Hyderabad,Active
+78,"Kavitha Reddy",kavitha.reddy@talentedge.in,7,77,2020-02-24,1300000.00,"Ops Manager",Female,Hyderabad,Active
+79,"Sriram Rao",sriram.rao@talentedge.in,7,77,2020-07-13,1250000.00,"Ops Manager",Male,Hyderabad,Active
+80,"Nandini Srinivasan",nandini.s@talentedge.in,7,78,2021-01-04,850000.00,"Ops Executive",Female,Hyderabad,Active
+81,"Suresh Kumar",suresh.kumar@talentedge.in,7,78,2021-03-22,830000.00,"Ops Executive",Male,Hyderabad,Active
+82,"Latha Narayanan",latha.narayanan@talentedge.in,7,79,2021-07-07,820000.00,"Ops Executive",Female,Hyderabad,Active
+83,"Ramu Pillai",ramu.pillai@talentedge.in,7,79,2021-10-18,800000.00,"Ops Executive",Male,Hyderabad,Active
+84,"Suma Krishnan",suma.krishnan@talentedge.in,7,78,2022-03-01,840000.00,"Ops Executive",Female,Hyderabad,Active
+85,"Manohar Das",manohar.das@talentedge.in,7,78,2022-06-20,815000.00,"Ops Executive",Male,Hyderabad,Active
+86,"Bhavani Iyer",bhavani.iyer@talentedge.in,7,79,2023-02-27,790000.00,"Ops Executive",Female,Hyderabad,Active
+87,"Arjun Mehta",arjun.mehta@talentedge.in,8,NULL,2019-09-01,2700000.00,"Head of Analytics",Male,Bangalore,Active
+88,"Divyanka Shah",divyanka.shah@talentedge.in,8,87,2020-03-16,1600000.00,"Analytics Manager",Female,Bangalore,Active
+89,"Roshan Patel",roshan.patel@talentedge.in,8,87,2020-08-03,1550000.00,"Analytics Manager",Male,Bangalore,Active
+90,"Chaitali Das",chaitali.das@talentedge.in,8,88,2021-01-19,1150000.00,"Data Scientist",Female,Bangalore,Active
+91,"Harish Nair",harish.nair@talentedge.in,8,88,2021-04-12,1100000.00,"Data Scientist",Male,Bangalore,Active
+92,"Ritesh Bose",ritesh.bose@talentedge.in,8,89,2021-08-23,1050000.00,"Data Analyst",Male,Bangalore,Active
+93,"Smitha Rao",smitha.rao@talentedge.in,8,89,2021-11-08,1000000.00,"Data Analyst",Female,Bangalore,Active
+94,"Gaurav Sharma",gaurav.sharma@talentedge.in,8,88,2022-03-14,1200000.00,"Senior Data Scientist",Male,Bangalore,Active
+95,"Preethi Menon",preethi.menon@talentedge.in,8,88,2022-06-27,1150000.00,"Data Scientist",Female,Bangalore,Active
+96,"Aakash Srivastava",aakash.s@talentedge.in,8,89,2022-10-10,950000.00,"Data Analyst",Male,Bangalore,Active
+97,"Deepthi Krishnan",deepthi.k@talentedge.in,8,89,2023-01-30,920000.00,"Data Analyst",Female,Bangalore,Active
+98,"Naveen Reddy",naveen.reddy@talentedge.in,8,87,2023-05-08,1300000.00,"Analytics Manager",Male,Bangalore,Active
+99,"Padma Venkatesh",padma.v@talentedge.in,9,NULL,2019-10-01,1900000.00,"CS Director",Female,Chennai,Active
+100,"Rajiv Thomas",rajiv.thomas@talentedge.in,9,99,2020-04-06,1200000.00,"CS Manager",Male,Chennai,Active
+101,"Suma Balaji",suma.balaji@talentedge.in,9,99,2020-09-14,1150000.00,"CS Manager",Female,Chennai,Active
+102,"Vinod Kumar",vinod.kumar@talentedge.in,9,100,2021-02-01,800000.00,"CS Executive",Male,Chennai,Active
+103,"Geetha Natarajan",geetha.n@talentedge.in,9,100,2021-05-19,780000.00,"CS Executive",Female,Chennai,Active
+104,"Senthil Rajan",senthil.rajan@talentedge.in,9,101,2021-09-07,790000.00,"CS Executive",Male,Chennai,Active
+105,"Bhavana Suresh",bhavana.suresh@talentedge.in,9,101,2022-01-24,770000.00,"CS Executive",Female,Chennai,Active
+106,"Kiran Subramanian",kiran.sub@talentedge.in,9,100,2022-05-09,810000.00,"Senior CS Exec",Male,Chennai,Active
+107,"Mythili Ramesh",mythili.ramesh@talentedge.in,9,100,2022-08-22,790000.00,"Senior CS Exec",Female,Chennai,Active
+108,"Pradeep Arumugam",pradeep.a@talentedge.in,9,101,2023-03-13,750000.00,"CS Executive",Male,Chennai,Active
+109,"Nalini Varma",nalini.varma@talentedge.in,10,NULL,2019-11-01,2300000.00,"Legal Director",Female,Delhi,Active
+110,"Anil Batra",anil.batra@talentedge.in,10,109,2020-05-04,1500000.00,"Senior Legal Counsel",Male,Delhi,Active
+111,"Shweta Gupta",shweta.gupta@talentedge.in,10,109,2020-10-19,1450000.00,"Senior Legal Counsel",Female,Delhi,Active
+112,"Sunil Arora",sunil.arora@talentedge.in,10,110,2021-03-15,1050000.00,"Legal Counsel",Male,Delhi,Active
+113,"Kavita Sharma",kavita.sharma@talentedge.in,10,110,2021-07-28,1000000.00,"Legal Counsel",Female,Delhi,Active
+114,"Deepak Malhotra",deepak.malhotra@talentedge.in,10,111,2022-01-17,900000.00,"Compliance Analyst",Male,Delhi,Active
+115,"Rekha Gupta",rekha.gupta@talentedge.in,10,111,2022-05-02,870000.00,"Compliance Analyst",Female,Delhi,Active
+116,"Mandeep Singh",mandeep.singh@talentedge.in,10,110,2022-09-26,1100000.00,"Senior Legal Counsel",Male,Delhi,Active
+117,"Seema Bhatia",seema.bhatia@talentedge.in,10,110,2023-02-06,1050000.00,"Legal Counsel",Female,Delhi,Active
+118,"Tarun Anand",tarun.anand@talentedge.in,10,109,2023-06-12,1300000.00,"Senior Legal Counsel",Male,Delhi,Active
+119,"Amit Yadav",amit.yadav@talentedge.in,1,2,2020-07-01,1180000.00,"Software Engineer",Male,Bangalore,Inactive
+120,"Sara John",sara.john@talentedge.in,3,32,2021-03-15,870000.00,"Sales Executive",Female,Mumbai,Inactive
+121,"Ravi Nambiar",ravi.nambiar@talentedge.in,1,9,2021-09-01,1380000.00,"Senior Engineer",Male,Bangalore,Inactive
+122,"Lata Menon",lata.menon@talentedge.in,6,68,2021-07-20,880000.00,"Financial Analyst",Female,Pune,Inactive
+123,"Dev Saxena",dev.saxena@talentedge.in,2,22,2022-01-10,1120000.00,"Product Manager",Male,Bangalore,Inactive
+124,"Anita Rao",anita.rao@talentedge.in,4,48,2022-04-05,850000.00,"Marketing Analyst",Female,Mumbai,Inactive
+125,"Manoj Kumar",manoj.kumar@talentedge.in,8,88,2022-06-30,1100000.00,"Data Scientist",Male,Bangalore,Inactive
+126,"Priya Tiwari",priya.tiwari@talentedge.in,1,2,2022-10-01,1350000.00,"Senior Engineer",Female,Bangalore,Inactive
+127,"Gaurav Jain",gaurav.jain@talentedge.in,3,33,2023-01-31,810000.00,"Sales Executive",Male,Mumbai,Inactive
+128,"Deepa Krishnan",deepa.krishnan@talentedge.in,9,100,2023-04-30,790000.00,"CS Executive",Female,Chennai,Inactive
+129,"Rohit Verma",rohit.verma@talentedge.in,1,9,2023-06-15,1200000.00,"Software Engineer",Male,Bangalore,Inactive
+130,"Meena Rajan",meena.rajan@talentedge.in,5,57,2023-07-31,870000.00,"HR Business Partner",Female,Pune,Inactive
+131,"Arpit Soni",arpit.soni@talentedge.in,2,23,2023-08-15,960000.00,"Product Manager",Male,Bangalore,Inactive
+132,"Vandana Pillai",vandana.pillai@talentedge.in,7,78,2023-09-30,820000.00,"Ops Executive",Female,Hyderabad,Inactive
+133,"Saurabh Gupta",saurabh.gupta@talentedge.in,8,89,2023-10-31,980000.00,"Data Analyst",Male,Bangalore,Inactive
+134,"Radha Sharma",radha.sharma@talentedge.in,4,49,2023-11-30,840000.00,"Content Strategist",Female,Mumbai,Inactive
+135,"Kamal Narayan",kamal.narayan@talentedge.in,6,68,2023-12-31,1050000.00,"Senior Financial Analyst",Male,Pune,Inactive
+136,"Sunanda Nair",sunanda.nair@talentedge.in,1,2,2024-01-15,1450000.00,"Engineering Manager",Female,Bangalore,Inactive
+137,"Tarun Bhat",tarun.bhat@talentedge.in,3,32,2024-02-29,920000.00,"Senior Sales Exec",Male,Mumbai,Inactive
+138,"Usha Iyengar",usha.iyengar@talentedge.in,10,110,2024-03-31,1070000.00,"Legal Counsel",Female,Delhi,Inactive

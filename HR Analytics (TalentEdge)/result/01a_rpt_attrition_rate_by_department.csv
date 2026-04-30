@@ -1,0 +1,11 @@
+dept_name,total_employees,total_exits,attrition_rate_pct
+Engineering,25,5,20.00
+Product,12,2,16.67
+Marketing,12,2,16.67
+Finance,12,2,16.67
+Sales,19,3,15.79
+"Data & Analytics",14,2,14.29
+"Human Resources",11,1,9.09
+Operations,11,1,9.09
+"Customer Success",11,1,9.09
+"Legal & Compliance",11,1,9.09

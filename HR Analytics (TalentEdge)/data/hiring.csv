@@ -1,0 +1,40 @@
+app_id,dept_id,job_title,applied_date,stage,offer_date,joined_date,source
+1,1,"Software Engineer",2023-01-05,joined,2023-01-28,2023-02-15,LinkedIn
+2,1,"Software Engineer",2023-01-08,rejected,NULL,NULL,Naukri
+3,1,"Senior Engineer",2023-01-15,joined,2023-02-20,2023-03-06,Referral
+4,1,"Junior Engineer",2023-02-01,screening,NULL,NULL,Campus
+5,1,"Software Engineer",2023-02-10,joined,2023-03-05,2023-03-20,LinkedIn
+6,1,"Senior Engineer",2023-03-01,interview,NULL,NULL,Agency
+7,1,"Junior Engineer",2023-03-15,joined,2023-04-10,2023-04-25,Campus
+8,1,"Software Engineer",2023-04-01,offer,2023-05-01,NULL,LinkedIn
+9,2,"Product Manager",2023-01-10,joined,2023-02-08,2023-02-22,LinkedIn
+10,2,"Associate PM",2023-01-18,rejected,NULL,NULL,Naukri
+11,2,"Senior PM",2023-02-05,joined,2023-03-10,2023-03-25,Referral
+12,2,"Product Manager",2023-03-01,interview,NULL,NULL,Agency
+13,3,"Sales Executive",2023-01-12,joined,2023-01-30,2023-02-10,Naukri
+14,3,"Senior Sales Exec",2023-01-20,joined,2023-02-15,2023-03-01,Referral
+15,3,"Sales Executive",2023-02-08,rejected,NULL,NULL,LinkedIn
+16,3,"Sales Executive",2023-03-05,joined,2023-03-28,2023-04-10,Naukri
+17,3,"Sales Executive",2023-04-01,screening,NULL,NULL,"Company Website"
+18,4,"Marketing Analyst",2023-01-14,joined,2023-02-12,2023-02-27,LinkedIn
+19,4,"Marketing Manager",2023-02-01,joined,2023-03-08,2023-03-22,Referral
+20,4,"Content Strategist",2023-02-20,rejected,NULL,NULL,Agency
+21,4,"Marketing Analyst",2023-03-10,interview,NULL,NULL,Naukri
+22,5,Recruiter,2023-01-16,joined,2023-02-10,2023-02-24,LinkedIn
+23,5,"HR Business Partner",2023-02-14,joined,2023-03-15,2023-04-01,Referral
+24,5,Recruiter,2023-03-01,screening,NULL,NULL,Campus
+25,6,"Financial Analyst",2023-01-19,joined,2023-02-18,2023-03-04,LinkedIn
+26,6,"Senior Fin Analyst",2023-02-06,joined,2023-03-12,2023-03-27,Referral
+27,6,"Financial Analyst",2023-03-14,rejected,NULL,NULL,Agency
+28,7,"Ops Executive",2023-01-22,joined,2023-02-20,2023-03-06,Naukri
+29,7,"Ops Executive",2023-02-17,screening,NULL,NULL,"Company Website"
+30,8,"Data Analyst",2023-01-11,joined,2023-02-09,2023-02-23,LinkedIn
+31,8,"Data Scientist",2023-01-24,joined,2023-02-28,2023-03-15,Referral
+32,8,"Data Analyst",2023-02-12,rejected,NULL,NULL,Naukri
+33,8,"Senior Data Sci",2023-03-06,offer,2023-04-10,NULL,LinkedIn
+34,9,"CS Executive",2023-01-17,joined,2023-02-14,2023-02-28,Naukri
+35,9,"Senior CS Exec",2023-02-21,joined,2023-03-20,2023-04-03,Referral
+36,9,"CS Executive",2023-03-09,screening,NULL,NULL,Campus
+37,10,"Legal Counsel",2023-01-13,joined,2023-02-11,2023-02-25,LinkedIn
+38,10,"Sr Legal Counsel",2023-02-08,joined,2023-03-14,2023-03-28,Referral
+39,10,"Compliance Analyst",2023-03-20,rejected,NULL,NULL,Agency
