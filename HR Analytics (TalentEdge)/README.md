@@ -6,7 +6,23 @@ A complete SQL project built on a fictional HR analytics use case for TalentEdge
 
 ##  Overview
 
-TalentEdge Corp is a fast-growing organization facing key HR challenges such as high attrition, pay inequality, and inefficiencies in hiring. This project leverages SQL to analyze workforce data and generate actionable business insights.
+TalentEdge Corp is a rapidly expanding technology and e-commerce services company operating across six major cities in India. Over the past three financial years, the organization has experienced significant growth, scaling its workforce from 300 to 1,200 employees. While this expansion reflects strong business performance, it has also introduced complex workforce challenges related to employee retention, compensation fairness, and operational efficiency.
+
+As the organization grows, managing human capital effectively has become critical. Leadership now requires data-driven insights to understand workforce dynamics, optimize hiring strategies, and improve employee satisfaction and retention.
+
+---
+
+##  Problem Statement
+
+Despite its growth, TalentEdge Corp is facing a serious attrition challenge. The company reported a **22% voluntary attrition rate in FY 2023–24**, significantly higher than the industry benchmark of 12%. This gap represents not only a competitive disadvantage but also a substantial financial burden. Each employee exit costs the company approximately **1.5 times the annual salary**, factoring in recruitment expenses, onboarding efforts, productivity loss, and the erosion of institutional knowledge.
+
+In addition to attrition, two critical concerns have emerged from internal analysis:
+
+- **Gender Pay Gap:** Female engineers in product and platform teams earn, on average, **11% less** than their male counterparts in similar roles, raising concerns about pay equity and organizational fairness.
+
+- **Loss of High Performers:** Employees with consistently high performance ratings (≥ 4.5) are leaving the organization within six months at a rate **three times higher** than the company average. This trend signals a failure to retain top talent, which can directly impact innovation and business growth.
+
+To address these issues, the analytics team has been tasked with analyzing four years of HR data to answer key business questions related to attrition, compensation, performance, hiring efficiency, and organizational structure. The findings will support leadership decisions ahead of the upcoming board review.
 
 ---
 
