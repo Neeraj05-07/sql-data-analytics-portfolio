@@ -152,16 +152,16 @@ To address these issues, the analytics team has been tasked with analyzing four 
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 **Step 1 →** Open MySQL Workbench  
-**Step 2 →** Run `01_schema.sql` (create database & tables)  
-**Step 3 →** Run `02_data.sql` (insert data)  
-**Step 4 →** Run `03_analysis.sql` (execute queries)  
+**Step 2 →** create database & tables
+**Step 3 →** insert data
+**Step 4 →** execute queries 
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 
 - JOINS (INNER, LEFT, SELF JOIN)  
 - GROUP BY & AGGREGATIONS  
@@ -188,5 +188,6 @@ To address these issues, the analytics team has been tasked with analyzing four 
 
 ##  Author
 
-**Neeraj Thakur**  
-tneeraj80@gmail.com
+**Neeraj Thakur**\
+tneeraj80@gmail.com\
+[LinkedIn](https://www.linkedin.com/in/neeraj-thakur-ba7838230/) 
