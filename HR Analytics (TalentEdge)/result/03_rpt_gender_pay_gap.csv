@@ -1,0 +1,29 @@
+job_title,male_count,female_count,avg_male_salary,avg_female_salary,gender_pay_gap_pct
+"Senior Engineer",1,2,1450000,1350000,6.90
+"Engineering Manager",1,1,1950000,1850000,5.13
+"CS Manager",1,1,1200000,1150000,4.17
+"Data Analyst",2,2,1000000,960000,4.00
+"Finance Manager",1,1,1400000,1350000,3.57
+"Marketing Analyst",2,2,845000,815000,3.55
+"Compliance Analyst",1,1,900000,870000,3.33
+Recruiter,2,2,805000,780000,3.11
+"Software Engineer",5,3,1150000,1116667,2.90
+"Senior CS Exec",1,1,810000,790000,2.47
+"Product Manager",1,2,1050000,1025000,2.38
+"Legal Counsel",1,2,1050000,1025000,2.38
+"Senior Sales Exec",1,2,870000,850000,2.30
+"Content Strategist",1,1,880000,860000,2.27
+"Junior Engineer",2,4,915000,897500,1.91
+"Financial Analyst",2,3,925000,913333,1.26
+"HR Business Partner",2,1,910000,900000,1.10
+"CS Executive",3,2,780000,775000,0.64
+"Sales Executive",5,5,776000,780000,-0.52
+"Associate PM",1,2,880000,885000,-0.57
+"Ops Executive",3,4,815000,825000,-1.23
+"Sales Manager",1,1,1550000,1600000,-3.23
+"Ops Manager",1,1,1250000,1300000,-4.00
+"Data Scientist",1,2,1100000,1150000,-4.55
+"Marketing Manager",2,1,1250000,1350000,-8.00
+"Senior Legal Counsel",3,1,1300000,1450000,-11.54
+"Analytics Manager",2,1,1425000,1600000,-12.28
+"Senior Product Manager",2,1,1375000,1700000,-23.64
