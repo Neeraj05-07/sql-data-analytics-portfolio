@@ -14,7 +14,7 @@ As the organization grows, managing human capital effectively has become critica
 
 ##  Problem Statement
 
-Despite its growth, TalentEdge Corp is facing a serious attrition challenge. The company reported a **22% voluntary attrition rate in FY 2023–24**, significantly higher than the industry benchmark of 12%. This gap represents not only a competitive disadvantage but also a substantial financial burden. Each employee exit costs the company approximately **1.5 times the annual salary**, factoring in recruitment expenses, onboarding efforts, productivity loss, and the erosion of institutional knowledge.
+TalentEdge Corp is facing a serious attrition challenge. The company reported a **22% voluntary attrition rate in FY 2023–24**, significantly higher than the industry benchmark of 12%. This gap represents not only a competitive disadvantage but also a substantial financial burden. Each employee exit costs the company approximately **1.5 times the annual salary**, factoring in recruitment expenses, onboarding efforts, productivity loss, and the erosion of institutional knowledge.
 
 In addition to attrition, two critical concerns have emerged from internal analysis:
 
